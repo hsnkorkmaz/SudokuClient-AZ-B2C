@@ -25,8 +25,8 @@ HTTPS=true
 ```
 
 Screenshots:
-![alt text](https://github.com/hsnkorkmaz/SudokuClient-AZ-B2C/blob/master/screenshots/6.jpg?raw=true)
-![alt text](https://github.com/hsnkorkmaz/SudokuClient-AZ-B2C/blob/master/screenshots/3.jpg?raw=true)
-![alt text](https://github.com/hsnkorkmaz/SudokuClient-AZ-B2C/blob/master/screenshots/2.jpg?raw=true)
-![alt text](https://github.com/hsnkorkmaz/SudokuClient-AZ-B2C/blob/master/screenshots/4.jpg?raw=true)
-![alt text](https://github.com/hsnkorkmaz/SudokuClient-AZ-B2C/blob/master/screenshots/5.jpg?raw=true)
+![alt text](https://github.com/hsnkorkmaz/SudokuClient-AZ-B2C/blob/master/screenshots/6.png?raw=true)
+![alt text](https://github.com/hsnkorkmaz/SudokuClient-AZ-B2C/blob/master/screenshots/3.png?raw=true)
+![alt text](https://github.com/hsnkorkmaz/SudokuClient-AZ-B2C/blob/master/screenshots/2.png?raw=true)
+![alt text](https://github.com/hsnkorkmaz/SudokuClient-AZ-B2C/blob/master/screenshots/4.png?raw=true)
+![alt text](https://github.com/hsnkorkmaz/SudokuClient-AZ-B2C/blob/master/screenshots/5.png?raw=true)
